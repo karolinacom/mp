@@ -1,0 +1,644 @@
+
+.pagina{
+    width: 1080px;
+    height: 1600px;
+    border: 1px solid black;
+    position: relative;
+}
+.total{
+height: 1080px;
+width: 1630px;
+position: absolute;
+background: linear-gradient( #F3F3FB 0%, #FDFBFD 100%);
+}
+.part1{
+    width: 290px;
+    height: 1080px;
+    border: 1px solid black;
+    float: left;
+    position: relative;
+}
+.perfil{
+    width: 140px;
+    height: 115px;
+    float: right;
+    margin: 40px;
+    margin-left:20px ;
+    position:absolute
+}
+.home{
+    width: 145px;
+    height: 40px;
+    float: left;
+    top:140px ;
+    margin-top: 40px;
+    position:relative
+    
+}
+.chat{
+    width: 145px;
+    height: 40px; 
+    float: left;
+    margin-top: 10px;
+    position:relative
+}
+.contact{
+    width: 145px;
+    height: 40px; 
+    float: left;
+    top:150px ;
+    position:relative
+}
+.notif{
+    width: 155px;
+    height: 40px; 
+    float: left;
+    top:160px ;
+    position:relative
+}
+.calendario{
+    width: 145px;
+    height: 40px; 
+    float: left;
+    top:170px ;
+    position:relative
+}
+.config{
+    width: 145px;
+    height: 40px; 
+    float: left;
+    top:180px ;
+    position:relative
+}
+.log{
+    width: 170px;
+    height: 40px; 
+    float: left;
+    top:250px ;
+    position:relative
+}
+.part2{
+    width: 380px;
+    height: 600px; 
+    background: linear-gradient(180deg, #F3F3FB 0%, #FDFBFD 100%);
+    float: right;
+    margin-left: 200px;
+    position: absolute;
+}
+.chats{
+    width: 100px;
+    height: 60px; 
+    float: left;
+    margin-left: 10px;
+    position: relative;
+}
+.resentechat{
+    width: 100px;
+    height: 30px; 
+    font-size: 15px;
+    top: -15px;
+    position: relative;
+}
+.newchat{
+    width: 145px;
+    height: 40px; 
+    border: 1px solid black;
+    float: right;
+    position: relative;
+}
+.busca{
+    width: 300px;
+    height: 50px; 
+    border: 1px solid black;
+    float: left;
+    margin-left: 35px;
+    margin-top: 30px;
+    border-radius: 6px;
+    background:white;
+    position: relative;
+}
+.textlupa{
+    width: 50px;
+    height: 40px; 
+    margin-left: 30px;
+    top:-30px;
+    font-size: 15px;
+    font-family: 'Roboto', sans-serif;
+    position: relative;
+}
+.textlupa1{
+    width: 70px;
+    height: 30px;
+    top: -85px;
+    margin-left: 220px;
+    font-family: 'Roboto', sans-serif;
+    position: relative;
+}
+.lupa{
+    width: 30px;
+    height: 30px; 
+    top: 10px;
+    position: relative;
+}
+.not1{
+    width: 380px;
+    height: 120px;
+    border: 1px solid black;
+    float: left;
+    margin-top: 15px;
+    background:white;
+    position: relative;
+}
+.noticone1{
+    width: 380px;
+    height: 60px;
+    border-radius: 6px;
+}
+.luy{
+    width: 325px;
+    height: 60px;
+    top: -60px;
+    margin-left: 55px;
+    position: relative;
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+}
+.luy1{
+    width: 90px;
+    height: 30px;
+    top: -35px;
+    margin-left: 230px;
+    font-family: 'Roboto', sans-serif;
+    position: relative;
+}
+.contnot1{
+    width: 280px;
+    height: 70px;
+    margin-left: 60px;
+    top: -20px;
+    font-size: 10px;
+    font-family: 'Roboto', sans-serif;
+    position:relative ;
+}
+.not2{
+    width: 380px;
+    height: 120px;
+    border: 1px solid black;
+    float: left;
+    margin-top: 10px;
+    background:white;
+    position: relative;
+}
+.jered{
+    width: 100px;
+    height: 30px;
+    top: -55px;
+    margin-left: 55px;
+    font-family: 'Roboto', sans-serif;
+    position: relative;
+    font-size: 15px;
+}
+.jered1{
+    width: 100px;
+    height: 30px;
+    top: -40px;
+    margin-left: 230px;
+    font-family: 'Roboto', sans-serif;
+    position: relative;
+}
+.contenot2{
+    width: 250px;
+    height: 60px;
+    top:-60px ;
+    margin-left: 65px;
+    position: relative;
+}
+.icnot2{
+    width: 65px;
+    height: 25px;
+    top: 25px;
+    position: relative;
+    border-radius: 10px;
+    background: rgba(42, 139, 242, 0.25);
+}
+.filetext{
+    font-size: 11px;
+    width: 50px;
+    height: 18px;
+    top: -6px;
+    margin-left: 21px;
+    position: absolute;
+}
+.phototext{
+    font-size: 12px;
+    width: 50px;
+    height: 18px;
+    top: -6px;
+    margin-left: 21px;
+    position: absolute;
+}
+.info{
+    font-size: 12px;
+    width: 110px;
+    height: 22px;
+    top: -55px;
+    position: relative;
+}
+.icnot3{
+    width: 60px;
+    height: 25px;
+    top: -0px;
+    margin-left: 70px;
+    position: relative;
+    border-radius: 10px;
+    background: rgba(255, 51, 102, 0.25);
+}
+.not3{
+    width: 380px;
+    height: 120px;
+    background: linear-gradient(92.68deg, #7CB8F7 0%, #2A8BF2 100%);
+    border: 1px solid black;
+    float: left;
+    margin-top: 15px;
+    position: relative;
+    border-radius: 6px;
+}
+.nika{
+    width: 100px;
+    height: 30px;
+    top: -55px;
+    margin-left: 55px;
+    font-family: 'Roboto', sans-serif;
+    position: relative;
+    font-size: 15px;
+}
+.nika1{
+    width: 100px;
+    height: 30px;
+    top: -40px;
+    color: white;
+    margin-left: 240px;
+    font-family: 'Roboto', sans-serif;
+    position: relative;
+}
+.contenot3{
+    width: 250px;
+    height: 60px;
+    top:-60px ;
+    margin-left: 65px;
+    position: relative;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    font-size: 15px;
+}
+.text1{
+    width: 40px;
+    height: 30px; 
+    float: right;
+    font-family: 'Roboto', sans-serif;
+    margin-right: 70px;
+    position: relative;
+}
+.foto3{
+    margin-top: 10px;
+}
+.text2{
+    width: 40px;
+    height: 30px; 
+    float: right;
+    font-family: 'Roboto', sans-serif;
+    margin-right: 70px;
+    position: relative;
+}
+
+.foto2{
+    margin-top: 10px;
+}
+.foto4{
+    margin-top: 10px;
+}
+.text3{
+    width: 40px;
+    height: 30px; 
+    float: right;
+    font-family: 'Roboto', sans-serif;
+    margin-right: 70px;
+    position: relative;
+}
+.foto5{
+    margin-top: 10px;
+}
+.text4{
+    width: 40px;
+    height: 30px; 
+    float: right;
+    font-family: 'Roboto', sans-serif;
+    margin-right: 80px;
+    position: relative;
+}
+.foto6{
+    margin-top: 10px;
+}
+.text5{
+    width: 40px;
+    height: 30px; 
+    float: right;
+    font-family: 'Roboto', sans-serif;
+    margin-right: 70px;
+    position: relative;
+}
+.foto7{
+    margin-top: 10px;
+}
+.text6{
+    width: 40px;
+    height: 30px; 
+    float: right;
+    font-family: 'Roboto', sans-serif;
+    margin-right: 70px;
+    position: relative;
+}
+
+.foto8{
+    margin-top: 10px;
+}
+.text7{
+    width: 80px;
+    height: 60px; 
+    float: right;
+    
+    font-family: 'Roboto', sans-serif;
+    margin-right: 60px;
+    position: relative;
+}
+.textperfil{
+    width: 150px;
+    height: 30px; 
+    float: left;
+    font-family: 'Roboto', sans-serif;
+    margin-top: 95px;
+    position: absolute;
+}
+.foto1{
+    margin-left: 25px;
+}
+.tex1{
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+}
+.newchat{
+    width: 160px;
+    height: 40px;
+    background: linear-gradient(92.68deg, #7CB8F7 0%, #2A8BF2 100%);
+    margin-top: 15px;
+    border-color: white;
+    border-radius: 6px;
+    position: relative
+}
+.newtext{
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    margin-left: 40px;
+    position: relative;
+}
+
+.iconenew{
+    width: 25px;
+    height: 20px;
+    position: relative;
+    top: -40px;
+    margin-left: 8px;
+}
+.cabeçalho{
+    width: 390px;
+    height: 550px;
+    border: 1px solid black;
+    position: relative;
+    margin-left: 600px;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+.cabeça1{
+    width: 390px;
+    height: 70px;
+    border: 1px solid black;
+    position: relative;
+    border-radius: 10px;
+}
+.fotoconv{
+    width: 60px;
+    height: 60px;
+    top: 4px;
+    margin-left: 10px;
+    position: relative;
+}
+.cabeçaicon1{
+    width: 40px;
+    height: 40px;
+    top: -48px;
+    margin-left: 340px;
+    border-radius: 20px;
+    position: relative
+   
+
+}
+.cabeçaicon2{
+    width: 40px;
+    height: 40px;
+    top: -90px;
+    margin-left: 290px;
+    position: relative;
+    border-radius: 20px;
+}
+.clip{
+    margin-top: 10px;
+    margin-left: 7px;
+
+}
+.nome{
+    width: 100px;
+    height: 20px;
+    font-family: 'Roboto', sans-serif;
+    top: -150px;
+    margin-left: 75px;
+    position: relative;
+}
+.mensa1{
+    width: 350px;
+    height: 60px;
+    top: 10px;
+    margin-left: 10px;
+    position: relative;
+}
+.submensa{
+    width: 45px;
+    height: 45px;
+    
+    top: 8px;
+    margin-left: 10px;
+    position: relative;
+}
+.fotomensa{
+    margin-left:-45px;
+    position: relative;
+    top: -45px
+    
+}
+.mensa2{
+    width: 280px;
+    height: 50px;
+    top: -50px;
+    margin-left: 65px;
+    position: relative;
+    font-size: 10px;
+    font-family: 'Roboto', sans-serif;
+    background: linear-gradient(90.54deg, #60A9F6 0%, #2A8BF2 100%);
+    border-radius: 0px 10px 10px 10px;
+    color: white;
+}
+.mensa3{
+    width: 192px;
+    height: 30px;
+    margin-left: 78px;
+    top: 12px;
+    float: left;
+    background: linear-gradient(90.54deg, #60A9F6 0%, #2A8BF2 100%);
+    font-family: 'Roboto', sans-serif;
+    border-radius: 0px 10px 10px 10px;
+    color: white;
+    font-size: 10px;
+    position: relative;
+}
+.resposta{
+    width: 192px;
+    height: 30px; 
+    top: 30px;
+    float: right;
+    position: relative;
+    margin-right: 10px;
+    border: 1px solid rgba(112, 124, 151, 0.25);
+    box-sizing: border-box;
+    background: rgba(0, 195, 5, 0.25);
+}
+.resp1{
+    font-family: 'Roboto', sans-serif;
+    font-size: 10px;
+    margin-left: 10px;
+}
+.mensa4{
+    width: 350px;
+    height: 70px; 
+    top: 110px;
+    margin-left: 10px;
+    position: relative;
+}
+.sub2{
+    width: 45px;
+    height: 45px;
+    top: 8px;
+    margin-left: 10px;
+    position: relative;
+}
+.fotomensa2{
+    margin-left:-45px;
+    float: left;
+    position: relative;
+    top: -75px
+}
+.conv4{
+    width: 150px;
+    height: 60px;
+    margin-left: 70px;
+    top: -40px;
+    background: linear-gradient(90.54deg, #60A9F6 0%, #2A8BF2 100%);
+    border-radius: 0px 10px 10px 10px;
+    position: relative;
+} 
+.subconv4{
+    width: 40px;
+    height: 40px;
+    top: 10px;
+    margin-left: -25px;
+    position: relative;
+    float: left;
+}
+.sub3{
+height: 28px;
+width: 65px;
+left: 255px;
+top: 612px;
+font: Roboto
+}
+.sub4{
+height: 28px;
+width: 79px;
+left: 255px;
+font: roboto
+}
+.digita{
+    width: 390px;
+    height: 60px;
+    top: 187px;
+    position: relative;
+    float: left;
+} 
+.botmais{
+    width: 30px;
+    height: 30px;
+    top: 10px;
+    margin-left: 8px;
+    position: relative;
+    float: left;
+    background: linear-gradient(90.54deg, #60A9F6 0%, #2A8BF2 100%);
+    border-radius: 20px;
+
+}
+.mais{
+    float: left;
+    top: 3px;
+    margin-left: 4px;
+    position: relative;
+    
+}
+.escreva{
+    width: 230px;
+    height: 30px;
+    margin-left: 50px;
+    top: 10px;
+    border: 1px solid black;
+    position: relative;
+    border-radius: 10px;
+    
+}
+.textescreva{
+    font-family: 'Roboto', sans-serif;
+    top: -10px;
+    position: relative;
+    margin-left: 10px;
+}
+.feliz{
+    width: 30px;
+    height: 30px;
+    top: -50px;
+    margin-right: -50px;
+ 
+    position: relative;
+    float: right;
+    
+}
+.enviar{
+    width: 30px;
+    height: 30px;
+    top: -50px;
+    margin-right: -90px;
+    
+    position: relative;
+    float: right;
+    background: linear-gradient(90.54deg, #60A9F6 0%, #2A8BF2 100%);
+    border-radius: 20px;
+}
+.en{
+    top: 5px;
+    margin-left: 3px;
+    position: relative;
+}
